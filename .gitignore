@@ -72,3 +72,19 @@ fabric.properties
 
 SDAfull/
 "SDA Full/"
+settings.gradle
+gradlew.bat
+gradlew
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+build.gradle
+.gradle/vcs-1/gc.properties
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/4.10/taskHistory/taskHistory.lock
+.gradle/4.10/taskHistory/taskHistory.bin
+.gradle/4.10/gc.properties
+.gradle/4.10/fileHashes/fileHashes.lock
+.gradle/4.10/fileHashes/fileHashes.bin
+.gradle/4.10/fileChanges/last-build.bin
